@@ -1,0 +1,45 @@
+.email {
+    font-size: large;
+    padding: 20px;
+    text-align: center;
+    font-family: "Lucida Handwriting", cursive;
+    margin-left: 11%;
+}
+.password {
+    font-size: large;
+    padding: 20px;
+    text-align: center;
+    font-family: "Lucida Handwriting", cursive;
+    margin-left: 11%;
+}
+
+.Login {
+    margin-left: 11%;
+
+
+}
+h1 {
+    margin-left: 11%;
+    text-align: center; 
+    
+}
+.button-box button {
+    padding: 10px 20px;
+    background-color: rgb(44, 141, 252);
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    border: 1px solid black;
+  }
+
+.button-boxx button{
+    padding: 10px 20px;
+    background-color: #4ba5cb;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    border: 1px solid black;
+    padding-left: 1%;
+    margin-left: 11%;
+
+}
